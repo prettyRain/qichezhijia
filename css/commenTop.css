@@ -75,3 +75,9 @@
     line-height:50px;
     width:50%;
 }
+.backLogin {
+    position:absolute;
+    right:15px;
+    line-height:44px;
+    color:#fff;
+}
